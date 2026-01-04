@@ -14,7 +14,7 @@ This project focuses on analyzing HR data to provide actionable insights for wor
 - **Excel**: Data cleaning, pivot tables, and basic visualizations
 - **SQL**: Querying HR databases, aggregating metrics
 - **Power BI / Tableau**: Interactive dashboards, KPI tracking, trend analysis
-
+  
 ## Key Insights
 - Departments with higher turnover rates identified
 - Employee performance trends analyzed across teams
