@@ -5,10 +5,10 @@ Transforming HR management with data-driven insights! 👥 Explore my comprehens
 This project focuses on analyzing HR data to provide actionable insights for workforce management, employee performance, and retention strategies. The dashboard helps HR teams make data-driven decisions by visualizing key metrics.
 
 ## Objectives
-- Analyze employee demographics, attrition, and performance trends
-- Identify factors affecting employee retention and satisfaction
-- Monitor key HR metrics such as turnover rate, department performance, and hiring trends
-- Create interactive dashboards for HR decision-making
+- Analyze employee demographics, attrition, and performance trends.
+- Identify factors affecting employee retention and satisfaction.
+- Monitor key HR metrics such as turnover rate, department performance, and hiring trends.
+- Create interactive dashboards for HR decision-making.
 
 ## Tools & Technologies
 - **Excel**: Data cleaning, pivot tables, and basic visualizations
@@ -16,12 +16,12 @@ This project focuses on analyzing HR data to provide actionable insights for wor
 - **Power BI / Tableau**: Interactive dashboards, KPI tracking, trend analysis
   
 ## Key Insights
-- Departments with higher turnover rates identified
-- Employee performance trends analyzed across teams
-- Recruitment trends and hiring efficiency highlighted
-- Key factors impacting employee retention discovered
+- Departments with higher turnover rates identified.
+- Employee performance trends analyzed across teams.
+- Recruitment trends and hiring efficiency highlighted.
+- Key factors impacting employee retention discovered.
 
 ## Outcomes
-- Interactive dashboards to support HR strategy and decisions
-- Improved understanding of workforce trends and efficiency
-- Recommendations to reduce attrition and optimize HR processes
+- Interactive dashboards to support HR strategy and decisions.
+- Improved understanding of workforce trends and efficiency.
+- Recommendations to reduce attrition and optimize HR processes.
