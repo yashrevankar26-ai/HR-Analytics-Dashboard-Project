@@ -7,7 +7,7 @@ This project focuses on analyzing HR data to provide actionable insights for wor
 ## Objectives
 - Analyze employee demographics, attrition, and performance trends.
 - Identify factors affecting employee retention and satisfaction.
-- Monitor key HR metrics such as turnover rate, department performance, and hiring trends.
+- Monitor key HR metrics such as turnover rate, department performance, and hiring trends. 
 - Create interactive dashboards for HR decision-making.
 
 ## Tools & Technologies
